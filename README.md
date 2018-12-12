@@ -13,7 +13,7 @@ The current openpose version by CMU doesn't have a python wrapper for Hand point
 
 execute the program op-hands-one-ok.py to see hardcoded hands extraction of COCO hand pose
 
-![image](https://github.com/StrongRay/Openpose-Hand-Detection/blob/master/Screenshot%20from%202018-10-10%2020-39-27.png)
+![image](https://github.com/StrongRay/Openpose-Hand-Detection/blob/master/op-hands-one-ok.png)
 
 Interestingly, the COCO Hand model of 21 points is as follows.  The numpy array of left hands can be obtained from the forward_hands function and can be used to calculate the angles of the fingers.  
 
@@ -21,6 +21,6 @@ Interestingly, the COCO Hand model of 21 points is as follows.  The numpy array 
 
 Openpose is not the only method for hand point detection, pure OpenCV has imbedded DNN codes and using the pose_iter_102000.caffemodel, one can do a net.forward to extract out the hand points.  As always, use of a single image is limited.  Once using webcam, the speed of prediction is more important and techniques can be added to increase the accuracy such as greenscreening the background before detection.
 
-![image](https://github.com/StrongRay/Openpose-Hand-Detection/blob/master/Screenshot%20from%202018-10-10%2020-54-01.png)
+![image](https://github.com/StrongRay/Openpose-Hand-Detection/blob/master/opencv-dnn.png)
 
 
