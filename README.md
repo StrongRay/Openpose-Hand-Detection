@@ -1,6 +1,7 @@
 # Openpose-Hand-Detection
 CMU Perpetual Computing Lab Openpose modifications to show only Hand detection
-Licence:  https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/LICENSE
+
+Licence:  https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/LICENSE  
 
 Environment for this build:
 
