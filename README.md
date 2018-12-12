@@ -14,7 +14,7 @@ on the openpose home directory
 
 execute the program op-hands-one-ok.py to see hardcoded hands extraction of COCO hand pose
 
-![image](https://github.com/StrongRay/Openpose-Hand-Detection/blob/master/openpose-forward-hands.png)
+![image](https://github.com/StrongRay/Openpose-Hand-Detection/blob/master/Screenshot%20from%202018-10-10%2020-39-27.png)
 
 Interestingly, the COCO Hand model of 21 points is as follows.  The numpy array of left hands can be seen above and can be used to calculate the angles of the fingers.  
 
