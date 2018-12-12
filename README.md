@@ -20,7 +20,7 @@ Interestingly, the COCO Hand model of 21 points is as follows.  The numpy array 
 
 ![image](https://github.com/StrongRay/Openpose-Hand-Detection/blob/master/keypoints_hand.png)
 
-Openpose is not the only method for hand point detection, pure OpenCV has imbedded DNN codes and using the pose_iter_102000.caffemodel, one can do a net.forward to extract out the hand points.  As always, use of a single image is limited.  Once using webcam, the speed of prediction is more important and techniques can be added to increase the accuracy such as greenscreening the background before detection.
+Openpose is not the only method for hand point detection, pure OpenCV has imbedded DNN codes cv2.dnn.blobFromImage from v3.4 onwards and download the pose_iter_102000.caffemodel, one can do a net.forward to extract out the hand points.  As always, use of a single image is limited.  Once using webcam, the speed of prediction is more important and techniques can be added to increase the accuracy such as greenscreening the background before detection.
 
 ![image](https://github.com/StrongRay/Openpose-Hand-Detection/blob/master/opencv-dnn.png)
 
