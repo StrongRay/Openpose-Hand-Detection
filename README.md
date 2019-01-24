@@ -24,4 +24,7 @@ Openpose is not the only method for hand fingers detection, pure OpenCV has imbe
 
 ![image](https://github.com/StrongRay/Openpose-Hand-Detection/blob/master/opencv-dnn.png)
 
+Openpose released a new python wrapper.  I updated the sample code with a webcam viewer.
+Here's the results
+
 
