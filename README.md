@@ -24,7 +24,7 @@ Openpose is not the only method for hand fingers detection, pure OpenCV has imbe
 
 ![image](https://github.com/StrongRay/Openpose-Hand-Detection/blob/master/opencv-dnn.png)
 
-Openpose released a new python wrapper.  I updated the sample code with a webcam viewer.
+Openpose released a new python wrapper.  I updated the sample code with a webcam viewer https://github.com/StrongRay/Openpose-Hand-Detection/blob/master/web-hand.py
 Here's how the hands are detected with a hardcoded handRectangle.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2t0ppBiyeos" target="_blank"><img src="https://img.youtube.com/vi/2t0ppBiyeos/0.jpg" alt="webcam sample capture" width="240" height="180" border="10" /></a>
