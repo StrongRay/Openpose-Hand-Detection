@@ -29,4 +29,8 @@ Here's how the hands are detected with a hardcoded handRectangle.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2t0ppBiyeos" target="_blank"><img src="https://img.youtube.com/vi/2t0ppBiyeos/0.jpg" alt="webcam sample capture" width="240" height="180" border="10" /></a>
 
+Latest Deep Dive into fingers
 
+An interesting exploration into fingers. Extraction seemed to be orientated wrongly. Discovered that lighting makes alot of difference to the detection of fingers. Will move next into finger-straightness-with-tolerance next. 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=xZCUjNnzPrg" target="_blank"><img src="https://img.youtube.com/vi/xZCUjNnzPrg/0.jpg" alt="webcam sample capture" width="240" height="180" border="10" /></a>
