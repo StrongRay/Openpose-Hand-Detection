@@ -34,3 +34,9 @@ Latest Deep Dive into fingers
 An interesting exploration into fingers. Extraction seemed to be orientated wrongly. Discovered that lighting makes alot of difference to the detection of fingers. Will move next into finger-straightness-with-tolerance next. 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=xZCUjNnzPrg" target="_blank"><img src="https://img.youtube.com/vi/xZCUjNnzPrg/0.jpg" alt="webcam sample capture" width="240" height="180" border="10" /></a>
+
+Upgraded from UBUNTU 16 to 17 and rebuild OpenCV 4.1 and recompile Openpose 1.5
+Look at the speed now
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=zYDkhRiaSf8" target="_blank"><img src="https://img.youtube.com/vi/zYDkhRiaSf8/0.jpg" alt="webcam sample capture" width="480" height="320" border="10" /></a>
+
